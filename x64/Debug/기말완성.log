@@ -1,0 +1,5 @@
+﻿  final_i.c
+C:\Users\ggolt\Desktop\C언어\자료구조및프로그래밍\기말과제\기말완성\final_i.c(675,12): warning C4101: 'w' :참조되지 않은 지역 변수입니다.
+C:\Users\ggolt\Desktop\C언어\자료구조및프로그래밍\기말과제\기말완성\final_i.c(748,17): warning C4033: 'print_path'은(는) 값을 반환해야 합니다.
+C:\Users\ggolt\Desktop\C언어\자료구조및프로그래밍\기말과제\기말완성\final_i.c(758,1): warning C4716: 'print_path': 값을 반환해야 합니다.
+  기말완성.vcxproj -> C:\Users\ggolt\Desktop\C언어\자료구조및프로그래밍\기말과제\x64\Debug\기말완성.exe
